@@ -5,10 +5,12 @@ category: conferences
 permalink: /publication/2025-06-20-llm-adaptive-learning
 excerpt: 'This paper presents adaptive learning techniques for LLMs, enabling real-time adjustment to dynamic environments, with significant improvements validated on diverse datasets.'
 date: 2025-06-20
-venue: 'Accepted at ICML 2025 - International Conference on Machine Learning'
+venue: 'ICML 2025 (Accepted)'
 slidesurl: 'http://yourwebsite.com/files/slides-llm-adaptive-learning.pdf'
 paperurl: 'http://yourwebsite.com/files/paper-llm-adaptive-learning.pdf'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-llm-adaptive-learning.bib'
-codeurl: 'https://github.com/mcptest-user/llm-adaptive-learning'
-citation: 'John Smith, et al. (2025). "Adaptive Learning Strategies for Large Language Models in Dynamic Environments." <i>Accepted at ICML 2025 - International Conference on Machine Learning</i>.'
+code_url: "https://github.com/PetaLeaderPlaza/llm-adaptive-learning"
+citation: 'John Smith, et al. (2025). "Adaptive Learning Strategies for Large Language Models in Dynamic Environments." <i>Proceedings of the International Conference on Machine Learning (ICML 2025)</i>.'
+status: "accepted"
 ---
+This paper has been accepted at ICML 2025. It presents adaptive learning techniques for LLMs in dynamic environments.
